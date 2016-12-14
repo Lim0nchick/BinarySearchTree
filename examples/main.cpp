@@ -86,16 +86,3 @@ int main()
     if (!ForRemove.remove(12)) cout << "12 doesn't exist in ForRemove" << endl;
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-    return 0;
-}
